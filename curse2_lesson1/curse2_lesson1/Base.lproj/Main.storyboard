@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="16097.2" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina5_9" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Login Form Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="LoginFormController" customModule="curse2_lesson1" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <scrollView clipsSubviews="YES" contentMode="scaleToFill" canCancelContentTouches="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4iP-gE-gCc">
+                                <rect key="frame" x="0.0" y="44" width="375" height="734"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="ВКонтакте" textAlignment="natural" lineBreakMode="tailTruncation" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="sRt-Ko-GmX">
+                                        <rect key="frame" x="94.000000000000014" y="99" width="187.33333333333337" height="46.666666666666657"/>
+                                        <fontDescription key="fontDescription" name="TimesNewRomanPSMT" family="Times New Roman" pointSize="41"/>
+                                        <color key="textColor" systemColor="systemBlueColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <color key="highlightedColor" systemColor="systemBlueColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <color key="shadowColor" systemColor="linkColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    </label>
+                                    <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Login" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Myt-uQ-kep">
+                                        <rect key="frame" x="46" y="213.66666666666669" width="283" height="34"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="283" id="DZ3-iv-b5d"/>
+                                        </constraints>
+                                        <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <fontDescription key="fontDescription" name=".AppleSystemUIFont" family=".AppleSystemUIFont" pointSize="14"/>
+                                        <textInputTraits key="textInputTraits"/>
+                                    </textField>
+                                    <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Password" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="uSP-Qk-OzS">
+                                        <rect key="frame" x="46" y="341.66666666666669" width="283" height="34"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="283" id="kQu-pT-0OS"/>
+                                        </constraints>
+                                        <color key="textColor" systemColor="systemGray2Color" red="0.68235294120000001" green="0.68235294120000001" blue="0.69803921570000005" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                        <textInputTraits key="textInputTraits"/>
+                                    </textField>
+                                    <button opaque="NO" multipleTouchEnabled="YES" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VAg-hT-geB">
+                                        <rect key="frame" x="127.66666666666669" y="453.66666666666669" width="120" height="44"/>
+                                        <color key="backgroundColor" systemColor="linkColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="120" id="lPM-aA-54n"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="26"/>
+                                        <state key="normal" title="Войти">
+                                            <color key="titleColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="myButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="tix-Oh-g2f"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstItem="sRt-Ko-GmX" firstAttribute="top" secondItem="4iP-gE-gCc" secondAttribute="top" constant="99" id="0Bv-me-z0l"/>
+                                    <constraint firstItem="VAg-hT-geB" firstAttribute="top" secondItem="uSP-Qk-OzS" secondAttribute="bottom" constant="78" id="0rh-n2-9Ye"/>
+                                    <constraint firstItem="sRt-Ko-GmX" firstAttribute="centerX" secondItem="4iP-gE-gCc" secondAttribute="centerX" id="20h-nb-0lt"/>
+                                    <constraint firstAttribute="trailing" secondItem="Myt-uQ-kep" secondAttribute="trailing" constant="46" id="3Q0-cT-FDd"/>
+                                    <constraint firstItem="Myt-uQ-kep" firstAttribute="top" secondItem="sRt-Ko-GmX" secondAttribute="bottom" constant="68" id="N29-Ky-yDF"/>
+                                    <constraint firstItem="uSP-Qk-OzS" firstAttribute="top" secondItem="Myt-uQ-kep" secondAttribute="bottom" constant="94" id="NVt-tB-g25"/>
+                                    <constraint firstAttribute="bottom" secondItem="VAg-hT-geB" secondAttribute="bottom" constant="228" id="VCN-du-Eff"/>
+                                    <constraint firstItem="uSP-Qk-OzS" firstAttribute="centerX" secondItem="4iP-gE-gCc" secondAttribute="centerX" id="X1Z-JI-buP"/>
+                                    <constraint firstItem="VAg-hT-geB" firstAttribute="centerX" secondItem="4iP-gE-gCc" secondAttribute="centerX" id="ltx-TT-rqf"/>
+                                    <constraint firstAttribute="trailing" secondItem="uSP-Qk-OzS" secondAttribute="trailing" constant="46" id="oVQ-i1-mAa"/>
+                                    <constraint firstItem="Myt-uQ-kep" firstAttribute="centerX" secondItem="sRt-Ko-GmX" secondAttribute="centerX" id="uEf-Yn-qoT"/>
+                                </constraints>
+                                <viewLayoutGuide key="contentLayoutGuide" id="AHu-Vd-otW"/>
+                                <viewLayoutGuide key="frameLayoutGuide" id="Vpq-Cz-yEg"/>
+                            </scrollView>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <constraints>
+                            <constraint firstItem="4iP-gE-gCc" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="FhW-UE-5PB"/>
+                            <constraint firstItem="4iP-gE-gCc" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="bJJ-ur-Fff"/>
+                            <constraint firstItem="4iP-gE-gCc" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="iV9-bK-CRh"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="4iP-gE-gCc" secondAttribute="trailing" id="zZe-PJ-fqD"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                    <connections>
+                        <outlet property="myLogin" destination="Myt-uQ-kep" id="Znt-wn-r7Q"/>
+                        <outlet property="myPassword" destination="uSP-Qk-OzS" id="HbF-EU-PU2"/>
+                        <outlet property="scrollView" destination="4iP-gE-gCc" id="vHj-UD-7qq"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="130.40000000000001" y="104.1871921182266"/>
+        </scene>
+    </scenes>
+</document>
