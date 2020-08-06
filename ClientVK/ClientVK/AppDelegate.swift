@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  curse2_lesson1
+//  ClientVK
 //
-//  Created by spector.rebop on 29.07.2020.
+//  Created by spector.rebop on 06.08.2020.
 //  Copyright © 2020 spector.rebop. All rights reserved.
 //
 
@@ -20,6 +20,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     // MARK: UISceneSession Lifecycle
 
+    @available(iOS 13.0, *)
     func application(_ application: UIApplication, configurationForConnecting connectingSceneSession: UISceneSession, options: UIScene.ConnectionOptions) -> UISceneConfiguration {
         // Called when a new scene session is being created.
         // Use this method to select a configuration to create the new scene with.
