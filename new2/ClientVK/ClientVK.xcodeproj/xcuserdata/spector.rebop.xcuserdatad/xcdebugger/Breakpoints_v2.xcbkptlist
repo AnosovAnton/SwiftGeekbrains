@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8CFCC8B5-5B80-469D-BD92-1860BD9C47AD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4964FF1D-5845-4D2B-8B42-2738D3F1A570"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ClientVK/MySecondViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "MySecondViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C7FB9A2-009B-4499-B921-5D1958D0883F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ClientVK/LoginFormController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "LoginFormController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5C7FB9A2-009B-4499-B921-5D1958D0883F - ef07d56989ba6a7d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClientVK.LoginFormController.MyPassword.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "ClientVK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spector.rebop/Desktop/new2/ClientVK/ClientVK/LoginFormController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "5C7FB9A2-009B-4499-B921-5D1958D0883F - f1e566eb53701181"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClientVK.LoginFormController.MyPassword.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "ClientVK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spector.rebop/Desktop/new2/ClientVK/ClientVK/LoginFormController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "5C7FB9A2-009B-4499-B921-5D1958D0883F - 9356af019a72d770"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClientVK.LoginFormController.MyPassword.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "ClientVK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spector.rebop/Desktop/new2/ClientVK/ClientVK/LoginFormController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "5C7FB9A2-009B-4499-B921-5D1958D0883F - e22efc77c4b6febc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClientVK.LoginFormController.MyPassword.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ClientVK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spector.rebop/Desktop/new2/ClientVK/ClientVK/LoginFormController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "5C7FB9A2-009B-4499-B921-5D1958D0883F - 488dad8e86069a3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClientVK.LoginFormController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ClientVK.LoginFormController"
+                  moduleName = "ClientVK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spector.rebop/Desktop/new2/ClientVK/ClientVK/LoginFormController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "341">
+               </Location>
+               <Location
+                  uuid = "5C7FB9A2-009B-4499-B921-5D1958D0883F - 9a5aaee3a340bf79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClientVK.LoginFormController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ClientVK.LoginFormController&gt;"
+                  moduleName = "ClientVK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spector.rebop/Desktop/new2/ClientVK/ClientVK/LoginFormController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "258">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "26F07046-12E8-420D-BD28-A8F264BB64C2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ClientVK/LoginFormController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "LoginFormController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "26F07046-12E8-420D-BD28-A8F264BB64C2 - e600ab0062b4a1b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClientVK.LoginFormController.MyScrollView.getter : Swift.Optional&lt;__C.UIScrollView&gt;"
+                  moduleName = "ClientVK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spector.rebop/Desktop/new2/ClientVK/ClientVK/LoginFormController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "26F07046-12E8-420D-BD28-A8F264BB64C2 - 49605ada39ba41c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClientVK.LoginFormController.MyScrollView.setter : Swift.Optional&lt;__C.UIScrollView&gt;"
+                  moduleName = "ClientVK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spector.rebop/Desktop/new2/ClientVK/ClientVK/LoginFormController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "26F07046-12E8-420D-BD28-A8F264BB64C2 - 3d520a5f7e0509b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClientVK.LoginFormController.MyScrollView.modify : Swift.Optional&lt;__C.UIScrollView&gt;"
+                  moduleName = "ClientVK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spector.rebop/Desktop/new2/ClientVK/ClientVK/LoginFormController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "26F07046-12E8-420D-BD28-A8F264BB64C2 - 13ae0c0004e978b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClientVK.LoginFormController.MyScrollView.modify : Swift.Optional&lt;__C.UIScrollView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ClientVK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spector.rebop/Desktop/new2/ClientVK/ClientVK/LoginFormController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "26F07046-12E8-420D-BD28-A8F264BB64C2 - 488dad8e86069a3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClientVK.LoginFormController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ClientVK.LoginFormController"
+                  moduleName = "ClientVK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spector.rebop/Desktop/new2/ClientVK/ClientVK/LoginFormController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "456">
+               </Location>
+               <Location
+                  uuid = "26F07046-12E8-420D-BD28-A8F264BB64C2 - 9a5aaee3a340bf79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClientVK.LoginFormController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ClientVK.LoginFormController&gt;"
+                  moduleName = "ClientVK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spector.rebop/Desktop/new2/ClientVK/ClientVK/LoginFormController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "367">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53281F92-18AA-4519-9C6D-0BBBAB35D3E3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ClientVK/LoginFormController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "LoginFormController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "385F3B85-1D4B-45F4-A942-5BD21E4D4EDC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ClientVK/LoginFormController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "LoginFormController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "385F3B85-1D4B-45F4-A942-5BD21E4D4EDC - ef07d56989ba6a7d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClientVK.LoginFormController.MyPassword.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "ClientVK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spector.rebop/Desktop/new2/ClientVK/ClientVK/LoginFormController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "385F3B85-1D4B-45F4-A942-5BD21E4D4EDC - f1e566eb53701181"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClientVK.LoginFormController.MyPassword.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "ClientVK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spector.rebop/Desktop/new2/ClientVK/ClientVK/LoginFormController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "385F3B85-1D4B-45F4-A942-5BD21E4D4EDC - 9356af019a72d770"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClientVK.LoginFormController.MyPassword.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "ClientVK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spector.rebop/Desktop/new2/ClientVK/ClientVK/LoginFormController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "385F3B85-1D4B-45F4-A942-5BD21E4D4EDC - e22efc77c4b6febc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClientVK.LoginFormController.MyPassword.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ClientVK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spector.rebop/Desktop/new2/ClientVK/ClientVK/LoginFormController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "385F3B85-1D4B-45F4-A942-5BD21E4D4EDC - 488dad8e86069a3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClientVK.LoginFormController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ClientVK.LoginFormController"
+                  moduleName = "ClientVK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spector.rebop/Desktop/new2/ClientVK/ClientVK/LoginFormController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "341">
+               </Location>
+               <Location
+                  uuid = "385F3B85-1D4B-45F4-A942-5BD21E4D4EDC - 9a5aaee3a340bf79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClientVK.LoginFormController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ClientVK.LoginFormController&gt;"
+                  moduleName = "ClientVK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spector.rebop/Desktop/new2/ClientVK/ClientVK/LoginFormController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "258">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC805F61-B9A7-4E1B-8847-7E68BFE68B53"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ClientVK/Friends/MyCollection/Resources/MySecondViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
